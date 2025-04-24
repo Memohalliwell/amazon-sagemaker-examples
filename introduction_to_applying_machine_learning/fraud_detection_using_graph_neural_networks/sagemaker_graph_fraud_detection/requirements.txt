@@ -16,7 +16,7 @@ docutils==0.16
 exceptiongroup==1.2.2
 fastapi==0.115.11
 google-pasta==0.2.0
-h11==0.14.0
+h11==0.16.0
 idna==3.10
 importlib-metadata==6.11.0
 jmespath==1.0.1
