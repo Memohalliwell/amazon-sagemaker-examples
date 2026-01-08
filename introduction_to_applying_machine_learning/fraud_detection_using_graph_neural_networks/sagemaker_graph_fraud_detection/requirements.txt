@@ -13,7 +13,6 @@ colorama==0.4.6
 dill==0.3.9
 docker==7.1.0
 docutils==0.16
-exceptiongroup==1.2.2
 fastapi==0.115.11
 google-pasta==0.2.0
 h11==0.14.0
@@ -60,7 +59,7 @@ tblib==3.0.0
 tqdm==4.67.1
 typing-extensions==4.12.2
 tzdata==2025.1
-urllib3==1.26.20
+urllib3==2.6.3
 uvicorn==0.34.0
 watchtower==1.0.0
 zipp==3.21.0
